@@ -1,2 +1,2 @@
 ### Build status ###
-https://travis-ci.com/CoolnessSmartypants/CoolnessSmartypants.github.io.svg?branch=master
+[![Build Status](https://travis-ci.com/CoolnessSmartypants/CoolnessSmartypants.github.io.svg?branch=master)](https://travis-ci.com/CoolnessSmartypants/CoolnessSmartypants.github.io)
